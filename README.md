@@ -1,15 +1,5 @@
-3 лаба
-тут я добавил кеширование для всего проекта и так же кастомный запрос позволяющий добавлять курс на определённый день
-крч. условие выполнил P.S.Tiger
+4 лаба обработка ошибок Добавил логирование действий и ошибок. Подключил Swagger & CheckStyle. Убрал стилистические ошибки.
+![image](https://github.com/user-attachments/assets/ce076496-313f-41bb-bfa8-aa3b893fc6fb)
 
-
-на данных снимках экрана мы можем наблюдать что кеширование происходит корректно так как скорость обработки запроса стала на порядок выше
-
-
-![image](https://github.com/user-attachments/assets/7ec6d852-99bf-4d3b-9f42-12e1902806b7)
-
-
-
-
-![image](https://github.com/user-attachments/assets/570783cd-f491-4ea0-84a7-2f60cccb6aff)
+![image](https://github.com/user-attachments/assets/9289d712-a058-4c19-844a-eb624905cfbc)
 
